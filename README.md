@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Node.js/Python/C#/Java
-- 🌱 I’m currently learning JS/C#
-- 👯 Writing a notification server
-- 🤔 Making project's on Java
-- ⚡ Fun fact: I am developing servers for SC Games
-- 👤 About me: My name is Farid, and I'm a half RE of Supercell Games, and i'm have own project in VK
+- 🔭 I’m currently working on Node.js/PHP/C#/
+- 🌱 I’m currently learning C# (I already have experience, I made native applications in C# Xamarin for my social network)
+- 👯 At the moment I'm doing a Login server on Node.js
+- 🤔 I run my Instagram where I write servers on Node.js and PHP (@aghdoofz)
+- ⚡ Fun fact: I also develop my own social network (Globagram)
+- 👤 About me: My name is Farid, i'm from Baku, and I'm a half RE of Supercell Games, and i'm have own project in VK.
 -->
