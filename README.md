@@ -10,7 +10,7 @@
 
 - 📝 I'm currently working on **doofzBot and Globagram**.
 <p align="center">
-  <img src="https://img.shields.io/badge/doofz-doofz-brightgreen" />/>
+  <img src="https://img.shields.io/badge/doofz-doofz-brightgreen" />
 </p>
 
 <p align="center">
