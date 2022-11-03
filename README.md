@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/FwcFVJt/fischl.jpg" />
 </p>
 
-- 🌱 I’m currently learning **nothing**.
+- 🌱 I’m currently work on **Node.js/C#/PHP**.
 
 - 👀 I'm currently focusing on **doofzBot and Globagram**.
 
