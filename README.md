@@ -4,11 +4,11 @@
   <img src="https://i.ibb.co/FwcFVJt/fischl.jpg" />
 </p>
 
-- 🌱 I’m currently work on **Node.js/C#/PHP**.
+- 🌱 I’m currently work on **Node.js/C#/PHP/Python**.
 
-- 👀 I'm currently focusing on **doofzBot and Globagram**.
+- 👀 I'm currently focusing on **doofzGPT**.
 
-- 📝 I'm currently working on **doofzBot and Globagram**.
+- 📝 I'm currently working on **doofzGPT**.
 <p align="center">
   <img src="https://img.shields.io/badge/doofz-doofz-brightgreen" />
 </p>
