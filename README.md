@@ -4,7 +4,7 @@
   <img src="https://media.discordapp.net/attachments/1163173284565745704/1206207937111003256/WhatsApp_Image_2024-02-09_at_08.50.33_1.png?ex=65db2bae&is=65c8b6ae&hm=2c04d76ba3e2ac177c28517a05e83e05ae2921cb4371b8a1f52a5b7248241da9&=&format=webp&quality=lossless&width=855&height=488" />
 </p>
 
-- 🌱 I’m currently work on **Node.js/C#/PHP/Python**.
+- 🌱 I’m currently work on **Node.js/C#/C++/Python**.
 
 - 👀 I'm currently focusing on **Ganjavi AI/azGPT**.
 
