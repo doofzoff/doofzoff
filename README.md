@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently work on **Node.js/Elixir/C++/Python**.
 
-- 👀 I'm currently focusing on **Ganjavi AI**.
+- 👀 I'm currently focusing on **HAL-X**.
 
-- 📝 I'm currently working on **Ganjavi AI, Mount**.
+- 📝 I'm currently working on **HAL-X, Mount and etc.**.
 <p align="center">
   <img src="https://img.shields.io/badge/doofz-doofz-brightgreen" />
 </p>
@@ -21,17 +21,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/doofzoff"><img src="https://github-readme-stats.vercel.app/api?username=doofzoff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/doofzoff"><img src="https://github-readme-stats.vercel.app/api?username=microsoft&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/doofzoff"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doofzoff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/doofzoff"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=microsoft&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doofzoff&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=microsoft&theme=onedark" /></a>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doofzoff" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=microsoft" />
 </p>
