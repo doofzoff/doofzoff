@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my profile!</h1>
 
-- 🌱 I’m currently work on **Node.js/Elixir/C++/Python**.
+- 🌱 I’m currently work on **Node.js/Rust/PHP/Python**. (btw, rust is the best))
 
-- 👀 I'm currently focusing on **HAL-X**.
+- 👀 I'm currently focusing on **HAL-X / Twinky**.
 
-- 📝 I'm currently working on **HAL-X, Mount and etc.**.
+- 📝 I'm currently working on **HAL-X, Twinky and etc.**.
 <p align="center">
   <img src="https://img.shields.io/badge/doofz-doofz-brightgreen" />
 </p>
