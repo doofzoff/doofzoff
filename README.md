@@ -49,7 +49,7 @@ fn main() {
   <a href="https://chat.hal-x.ai">
     <img src="https://img.shields.io/badge/chat.hal--x.ai-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E21766" />
   </a>
-  <a href="https://github.com/doofzoff/pagedMark">
+  <a href="https://github.com/doofzoff/SIMURG">
     <img src="https://img.shields.io/badge/Star_the_repo-0D1117?style=for-the-badge&logo=github&logoColor=E21766" />
   </a>
 </p>
